@@ -16,6 +16,6 @@ This is a simple Python project that checks the strength of a password using str
    python password_checker.py
    
 Learning Outcome:
-Practiced Python string methods
-Applied conditional statements
-Improved problem-solving skills
+Practiced Python string methods,
+Applied conditional statements,
+Improved problem-solving skills.
